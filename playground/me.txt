@@ -1,5 +1,0 @@
-{{#user}
-Name: Jash Gohil
-Skills: HTML, CSS, JS, SQL, BOOTSTRAP, FIREBASE
-Email: jashgohil786@gmail.com
-{{/user}}
